@@ -1,0 +1,50 @@
+{
+    "name": "ERC20 list",
+    "timestamp": "2021-10-05T00:00:00.000Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {
+      
+    },
+    "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Simple_icon_time.svg/1200px-Simple_icon_time.svg.png",
+    "keywords": [
+      "blockchain"
+    ],
+    "tokens": [
+      {
+        "chainId": 22039,
+        "address": "0x088f64638BF0ba326A3e12AD72fc1BcE7058Eb4E",
+        "name": "Wrapped Mobile Coin",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      },
+      {
+        "chainId": 22039,
+        "address": "0x41E2661363228b6A211A9B4E7f74301303B425a5",
+        "name": "Samb",
+        "symbol": "SAMB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      },
+      {
+        "chainId": 22039,
+        "address": "0x02037d16c2f1E96AC9Be8ae4FC2251002822A0E0",
+        "name": "Token1",
+        "symbol": "TK1",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      },
+      {
+        "chainId": 22039,
+        "address": "0xc1FCeA4B55e32e3D00817A3Dc324DF0F6577e17D",
+        "name": "Token",
+        "symbol": "TK",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      }
+    ]
+  }
